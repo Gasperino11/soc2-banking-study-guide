@@ -1022,3 +1022,283 @@ Debt collection practices are governed by:
 
 **Source:** [FTC: Debt Collection FAQs](https://consumer.ftc.gov/articles/debt-collection-faqs).
 
+# Regulation B and Commercial Lending
+
+## Question 1
+
+How long does Regulation B require you to retain records after notifying a business applicant with gross annual revenues of $1 million or less of an action taken?
+
+- A. 12 months
+- B. 18 months
+- C. 25 months
+
+**Correct answer: A. 12 months.**
+
+**Explanation:** The general business-credit retention period is 12 months after notification of action taken. The revenue threshold refers to the preceding fiscal year. Special rules apply to certain business credit, and investigations, enforcement proceedings, or other applicable requirements can require longer retention.
+
+**Source:** [CFPB: Regulation B, Section 1002.12 — Record Retention](https://www.consumerfinance.gov/rules-policy/regulations/1002/12/).
+
+## Question 2
+
+Under any system of evaluating creditworthiness, you are allowed to consider the age of elderly applicants when this consideration leads to:
+
+- A. Preferential treatment
+- B. Increased profits for your institution
+- C. Stricter standards
+
+**Correct answer: A. Preferential treatment.**
+
+**Explanation:** Regulation B permits favorable treatment based on age for applicants 62 or older under any credit evaluation system. This permission is compatible with the rule that a valid credit scoring system cannot assign a negative factor or value to elderly applicants' age.
+
+**Underwriting clarification:** Judgmental underwriting separately permits consideration of age in connection with an individual's actual creditworthiness, such as income through retirement or collateral adequacy. The official commentary includes an example where an elderly applicant could qualify with a larger down payment or shorter term. This does not authorize blanket stricter terms based solely on age. The question asks which permission applies under *any* evaluation system.
+
+**Source:** [CFPB: Regulation B, Section 1002.6(b)(2) and official interpretations](https://www.consumerfinance.gov/rules-policy/regulations/1002/6/).
+
+## Question 3
+
+Under Regulation B, if a cosigner is needed, it can be someone chosen:
+
+- A. By the applicant, subject to the institution's restrictions
+- B. From a pool of angel investors, subject to both the applicant's and institution's approval
+- C. By the institution, subject to the applicant's approval
+
+**Correct answer: A. By the applicant, subject to the institution's restrictions.**
+
+**Explanation:** The applicant chooses a cosigner who meets the institution's lawful eligibility requirements, such as creditworthiness. Those requirements cannot discriminate on a prohibited basis. The institution may accept the applicant's spouse as a cosigner but cannot require that the cosigner be the spouse.
+
+**Source:** [CFPB: Regulation B, Section 1002.7(d)(5) and official interpretation](https://www.consumerfinance.gov/rules-policy/regulations/1002/7/).
+
+## Question 4
+
+For a business with gross revenues of $1 million or less in the preceding fiscal year, within how many days of receiving a completed application must you give notification of an outright approval, denial, or counteroffer?
+
+- A. 30 days
+- B. 20 days
+- C. 15 days
+
+**Correct answer: A. 30 days.**
+
+**Explanation:** Regulation B generally requires notification within 30 days after receiving a completed application for a business with gross revenues of $1 million or less in the preceding fiscal year. Special rules apply to trade credit, credit incident to a factoring agreement, and similar business credit.
+
+**Source:** [CFPB: Regulation B, Section 1002.9(a)(1)(i) and (a)(3)(i) — Notifications](https://www.consumerfinance.gov/rules-policy/regulations/1002/9/).
+
+## Question 5
+
+To discriminate is to treat an applicant or group of applicants less favorably than another because of any of a number of factors known as prohibited bases, among which is/are:
+
+- A. Race and color
+- B. Education
+- C. Assistance from family members
+
+**Correct answer: A. Race and color.**
+
+**Explanation:** Race and color are explicitly prohibited bases under Regulation B. Education and assistance from family members are not themselves listed prohibited bases. Income from a public assistance program is a protected basis; that differs from assistance from family members.
+
+**Source:** [CFPB: Regulation B, Section 1002.2(z) — Prohibited Basis](https://www.consumerfinance.gov/rules-policy/regulations/1002/2/).
+
+## Question 6
+
+You may ask questions about an applicant's spouse when:
+
+- A. The applicant will be the only person liable for repayment
+- B. The spouse's income will be relied upon for loan repayment
+- C. The spouse has an outside income for loan repayment
+
+**Correct answer: B. The spouse's income will be relied upon for loan repayment.**
+
+**Explanation:** Regulation B permits requesting information about a spouse when the applicant relies on that spouse's income to repay the loan. Merely having outside income does not, by itself, establish this exception. Other exceptions also permit spouse inquiries in specified circumstances.
+
+**Source:** [Federal Reserve: Background and Summary of Regulation B — Information About a Spouse](https://www.federalreserve.gov/frrs/regulations/background-and-summary-of-regulation-b.htm).
+
+## Question 7
+
+Mr. Russell's business had gross revenues of more than $1 million in the preceding fiscal year. You have turned down his request for an extension of credit and now must retain a record of this application for at least 60 days. If, within that time period, he requests that these records be retained, you must keep them for:
+
+- A. Another 60 days
+- B. 12 months
+- C. 25 months
+
+**Correct answer: B. 12 months.**
+
+**Explanation:** Under Regulation B's special rule for certain business credit applications, a request made in writing within the 60-day retention period for either the reasons for adverse action or retention of the records extends the required retention period to 12 months after notification of the action taken.
+
+**Wording clarification:** The question omits that the applicant's request must be in writing. Other applicable retention requirements may require keeping records longer.
+
+**Source:** [CFPB: Regulation B, Section 1002.12(b)(5) — Record Retention](https://www.consumerfinance.gov/rules-policy/regulations/1002/12/).
+
+## Question 8
+
+Mr. Richardson calls saying he has had a substantial drop in his business. He's wondering whether he might qualify for a line of credit. You should respond by telling him that:
+
+- A. If he's not bringing in enough money, he is unlikely to repay the loan, so he won't qualify
+- B. He might qualify but will have to repay at a very high interest rate
+- C. A decision can't be made until your institution has a good understanding of his business's overall financial situation
+
+**Correct answer: C. A decision can't be made until your institution has a good understanding of his business's overall financial situation.**
+
+**Explanation:** Based on the limited information in this inquiry, neither denial nor a very high interest rate is established. Explain the application process and obtain the information needed to evaluate creditworthiness. Under Regulation B, evaluating an inquiry, deciding to decline it, and communicating that decision can turn the inquiry into an application subject to notification requirements.
+
+**Source:** [CFPB: Regulation B, Official Interpretation 2(f)-3 — When an Inquiry or Prequalification Request Becomes an Application](https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-2/).
+
+## Question 9
+
+You would be violating the ECOA if you treated an applicant less favorably than another because of:
+
+- A. Employment or number of dependents
+- B. Age or national origin
+- C. Immigration status or residency status
+
+**Correct answer: B. Age or national origin.**
+
+**Explanation:** Age (provided the applicant has capacity to enter into a binding contract) and national origin are prohibited bases under ECOA and Regulation B. The limited permissible uses of age discussed in Question 2 still apply. Immigration or permanent residency status may be considered in assessing the creditor's rights and remedies regarding repayment, but cannot be used as a pretext for national-origin discrimination.
+
+**Sources:** [CFPB: Regulation B, Section 1002.2(z) — Prohibited Basis](https://www.consumerfinance.gov/rules-policy/regulations/1002/2/); [Section 1002.6(b)(2) and (b)(7) — Age and Immigration Status](https://www.consumerfinance.gov/rules-policy/regulations/1002/6/).
+
+## Question 10
+
+A borrower is offering real estate as collateral for a business loan. For which of the following pieces of real estate would you be required to give them a copy of appraisals and other written valuations?
+
+- A. Vacant land
+- B. A multifamily dwelling
+- C. A one- to four-family dwelling
+
+**Best answer: C. A one- to four-family dwelling.**
+
+**Explanation:** Regulation B requires copies of appraisals and other written valuations developed for an application secured by a first lien on a dwelling containing one to four units. This applies to business-purpose as well as consumer-purpose credit.
+
+**Wording clarification:** The question omits the first-lien requirement. Option B is ambiguous: a two- to four-unit multifamily dwelling also qualifies; a building with five or more units does not meet this rule's dwelling definition.
+
+**Source:** [CFPB: Regulation B, Section 1002.14(a)(1), (b)(2), and Official Interpretation 14(a)(1)-1](https://www.consumerfinance.gov/rules-policy/regulations/1002/14/).
+
+## Question 11
+
+A system for evaluating creditworthiness may favor an elderly applicant. Regulation B defines elderly as anyone who is age ______ or older.
+
+- A. 59½
+- B. 62
+- C. 65
+
+**Correct answer: B. 62.**
+
+**Explanation:** Regulation B explicitly defines elderly as age 62 or older.
+
+**Source:** [CFPB: Regulation B, Section 1002.2(o) — Definition of Elderly](https://www.consumerfinance.gov/rules-policy/regulations/1002/2/).
+
+## Question 12
+
+Two applicants each had a business with gross annual revenues of $1 million or less in the preceding fiscal year. You made a counteroffer to both. One applicant did not use the credit offered. The other did not accept the offer. When are you required to notify them of your adverse action?
+
+- A. Within a reasonable time after the counteroffer
+- B. Within 90 days of the counteroffer
+- C. Within 60 days of the counteroffer
+
+**Correct answer: B. Within 90 days of the counteroffer.**
+
+**Explanation:** The deadline is 90 days after notifying the applicant of the counteroffer if the applicant neither expressly accepts nor uses the credit offered. A second adverse action notice is unnecessary if a compliant adverse action notice accompanied the counteroffer.
+
+**Wording clarification:** This answer assumes neither applicant accepted or used the offered credit. Nonuse alone does not trigger this rule if the applicant expressly accepted the counteroffer.
+
+**Source:** [CFPB: Regulation B, Section 1002.9(a)(1)(iv), (a)(3)(i), and Official Interpretation 9(a)(1)-6](https://www.consumerfinance.gov/rules-policy/regulations/1002/9/).
+
+## Question 13
+
+When an applicant fails to respond to credit approval within 30 days, what happens next?
+
+- A. The application may be withdrawn and no notification is required
+- B. You must notify the applicant that the application has been withdrawn
+- C. A second notification of approval must be sent
+
+**Best answer: A. The application may be withdrawn and no notification is required.**
+
+**Explanation:** Under Section 1002.9(e), if both parties expect the applicant to inquire about the application's status, the creditor approves it, and the applicant does not inquire within 30 days after applying, the creditor may treat the application as withdrawn without providing the notification required by Section 1002.9(a)(1).
+
+**Wording correction:** The rule measures 30 days from applying, not from approval, and requires the expectation that the applicant will inquire. The question omits these conditions.
+
+**Source:** [CFPB: Regulation B, Section 1002.9(e) — Withdrawal of Approved Application](https://www.consumerfinance.gov/rules-policy/regulations/1002/9/).
+
+## Question 14
+
+In a credit scoring system, you CANNOT assign negative values to the ______ of elderly applicants.
+
+- A. Ages
+- B. Payment histories
+- C. Debt-to-income ratio
+
+**Correct answer: A. Ages.**
+
+**Explanation:** An empirically derived, demonstrably and statistically sound credit scoring system may consider age, but cannot assign a negative factor or value to the age of applicants 62 or older. Their payment histories and debt-to-income ratios may still be evaluated under lawful creditworthiness standards.
+
+**Source:** [CFPB: Regulation B, Section 1002.6(b)(2)(ii) — Age in Credit Scoring](https://www.consumerfinance.gov/rules-policy/regulations/1002/6/).
+
+## Question 15
+
+Two business applicants each had gross annual revenues of more than $1 million in the preceding fiscal year. You made a counteroffer to both. One applicant did not use the credit offered. The other did not accept the offer. When are you required to notify them of adverse action?
+
+- A. Within a reasonable time after the counteroffer
+- B. Within 90 days of the counteroffer
+- C. Within 60 days of the counteroffer
+
+**Correct answer: A. Within a reasonable time after the counteroffer.**
+
+**Explanation:** For businesses with gross revenues exceeding $1 million in the preceding fiscal year, Regulation B requires notification of action taken within a reasonable time, orally or in writing. This differs from the 90-day counteroffer rule for businesses with revenues of $1 million or less in Question 12; it is not a duplicate question.
+
+**Wording clarification:** This assumes neither applicant expressly accepted nor used the offered credit. Nonuse alone does not establish adverse action if the applicant expressly accepted the counteroffer.
+
+**Source:** [CFPB: Regulation B, Section 1002.9(a)(3)(ii)(A) — Business Credit Notifications](https://www.consumerfinance.gov/rules-policy/regulations/1002/9/).
+
+## Question 16
+
+A borrower wants to use some unimproved land that they jointly own with a friend as collateral. Their interest in the property, though, is enough to make them individually creditworthy at your institution. Therefore, you:
+
+- A. May require a cosigner of the borrower's choice
+- B. Are not permitted to require a cosigner
+- C. Must consider the possibility of a later change in ownership before granting the loan
+
+**Correct answer: B. Are not permitted to require a cosigner.**
+
+**Explanation:** Because the borrower individually qualifies for the requested credit, the institution cannot require an additional person to cosign merely because the collateral is jointly owned. It may require the friend's signature on documents necessary under applicable state law to make the collateral available in the event of default. Signing a document to permit a lien is distinct from cosigning the loan and assuming personal repayment liability.
+
+**Source:** [CFPB: Regulation B, Section 1002.7(d)(1) and (d)(4) — Qualified Applicants and Secured Credit](https://www.consumerfinance.gov/rules-policy/regulations/1002/7/).
+
+## Question 17
+
+The ______ evaluation system uses the underwriter's own judgment to assign values to factors or otherwise determine the likelihood of a borrower's repayment.
+
+- A. Multifacet
+- B. Credit-scoring
+- C. Judgmental
+
+**Correct answer: C. Judgmental.**
+
+**Explanation:** The described approach relies on the underwriter's judgment in evaluating creditworthiness. Regulation B more broadly classifies any evaluation system that does not qualify as an empirically derived, demonstrably and statistically sound credit scoring system as judgmental.
+
+**Source:** [Federal Reserve: Regulation B, Section 1002.2(t) — Judgmental System](https://www.federalreserve.gov/frrs/regulations/section-10022-definitions.htm).
+
+## Question 18
+
+A person's intent to be a joint applicant must be evidenced at:
+
+- A. Time of application
+- B. Consummation
+- C. The time the borrower inquires about loan terms
+
+**Correct answer: A. Time of application.**
+
+**Explanation:** Joint intent must be established when applying. Signatures or initials specifically affirming an intent to apply jointly can establish this. Signing a promissory note later, or signing a joint financial statement merely to confirm its accuracy, does not establish that intent.
+
+**Source:** [CFPB: Regulation B, Official Interpretation 7(d)(1)-3 — Evidence of Joint Application](https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-7/).
+
+## Question 19
+
+A business owner asks about your credit terms for purchasing new equipment. Based on what you learn about the person during the conversation, you decide they won't qualify for a loan and tell them so before they leave. Under the ECOA, you have just:
+
+- A. Deprived them of their right to fill out a written application
+- B. Turned an inquiry into an application
+- C. Engaged in overt discrimination
+
+**Correct answer: B. Turned an inquiry into an application.**
+
+**Explanation:** By evaluating the person's information, deciding to deny credit, and communicating that decision, you have treated the inquiry as an application. Regulation B's applicable notification requirements now apply even without a written application. The facts alone do not establish discrimination on a prohibited basis.
+
+**Source:** [CFPB: Regulation B, Official Interpretation 2(f)-3 — When an Inquiry or Prequalification Request Becomes an Application](https://www.consumerfinance.gov/rules-policy/regulations/1002/interp-2/).
+
