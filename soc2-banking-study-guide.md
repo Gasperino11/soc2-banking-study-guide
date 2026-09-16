@@ -730,3 +730,295 @@ Which form of identification would not be sufficient to positively identify a cu
 
 **Source:** [FFIEC: Customer Identification Program](https://bsaaml.ffiec.gov/manual/AssessingComplianceWithBSARegulatoryRequirements/01).
 
+# Customer Confidentiality
+
+## Question 1
+
+What are two things prohibited by the Fair Debt Collection Practices Act?
+
+- (A) Contacting the customer's attorney instead of the customer
+- (B) Use of postcards
+- (C) Harassment
+
+Answer choices:
+
+- A. A & B
+- B. B & C
+- C. A & C
+
+**Correct answer: B. B & C — use of postcards and harassment.**
+
+**Explanation:** The FDCPA prohibits covered debt collectors from communicating about a debt by postcard and from harassing consumers. Contacting a consumer's attorney is permitted and generally required instead of contacting the consumer when the collector knows the consumer is represented regarding the debt and knows or can readily ascertain the attorney's contact information, subject to exceptions.
+
+**Source:** [FTC: Fair Debt Collection Practices Act, Sections 805–808](https://www.ftc.gov/legal-library/browse/rules/fair-debt-collection-practices-act-text).
+
+## Question 2
+
+As soon as you finish a transaction, you should:
+
+- A. Clear your computer screen
+- B. Tidy up your work area
+- C. Ask the next person in line to wait a moment
+
+**Correct answer: A. Clear your computer screen.**
+
+**Explanation:** Close or clear the previous customer's information from view to prevent the next customer or another unauthorized person from seeing confidential details.
+
+## Question 3
+
+If you share with others information about a consumer beyond your transactions and experiences with that consumer, you will be:
+
+- A. Subject to damages by that consumer
+- B. In violation of the Right to Financial Privacy Act
+- C. Considered a consumer reporting agency
+
+**Best answer: C. Considered a consumer reporting agency.**
+
+**Explanation:** Sharing information beyond the institution's own transactions and experiences can bring it within the Fair Credit Reporting Act's consumer reporting agency requirements.
+
+**Wording clarification:** This is not automatic for every disclosure. The institution must meet the statutory definition, which includes regularly assembling or evaluating consumer information to furnish consumer reports to third parties for fees, dues, or on a cooperative nonprofit basis, using interstate commerce. Applicable exclusions also matter.
+
+**Source:** [Federal Reserve: Questions and Answers About the Fair Credit Reporting Act](https://www.federalreserve.gov/frrs/regulations/questions-and-answers-about-the-fair-credit-reporting-act.htm).
+
+## Question 4
+
+If you get a call from someone who wants account information, you must remember to:
+
+- A. Ask for security information beyond the customer's account number
+- B. Call them back with the requested information before closing
+- C. Notify your supervisor before giving out any information
+
+**Correct answer: A. Ask for security information beyond the customer's account number.**
+
+**Explanation:** Knowing an account number alone does not establish that a caller is authorized to receive account information. Follow the institution's approved caller-verification procedures before disclosing confidential details.
+
+## Question 5
+
+Consumer reporting agencies are permitted to provide credit information for background checks for several types of applications, two of which are:
+
+- (A) Credit
+- (B) Insurance
+- (C) Marriage
+
+Answer choices:
+
+- A. A & B
+- B. B & C
+- C. A & C
+
+**Correct answer: A. A & B — credit and insurance.**
+
+**Explanation:** The FCRA permits consumer reports for qualifying credit transactions and insurance underwriting. A marriage application alone is not a permissible purpose under the Act.
+
+**Source:** [Federal Reserve: FCRA Section 604 — Permissible Purposes of Reports](https://www.federalreserve.gov/frrs/regulations/section-604-permissible-purposes-of-reports.htm).
+
+## Question 6
+
+A federal agency requesting the financial records of one of your account holders must generally _____ that it has complied with the Right to Financial Privacy Act.
+
+- A. Certify to your institution
+- B. Confirm with the account holder or the account holder's attorney
+- C. Inform the appropriate state regulatory agency
+
+**Correct answer: A. Certify to your institution.**
+
+**Explanation:** Generally, the requesting federal agency must certify in writing to the financial institution that it has complied with the applicable RFPA provisions before the institution releases the customer's financial records. Statutory exceptions apply.
+
+**Source:** [Federal Reserve: Background and Summary of the Right to Financial Privacy Act](https://www.federalreserve.gov/frrs/regulations/background-and-summary-of-the-right-to-financial-privacy-act.htm).
+
+## Question 7
+
+One confidentiality measure is to:
+
+- A. Use hand signals
+- B. Indicate information on a printed receipt
+- C. Refrain from addressing the account holder by name
+
+**Correct answer: B. Indicate information on a printed receipt.**
+
+**Explanation:** Discreetly pointing out transaction details on a receipt handed to the customer avoids announcing sensitive information, such as an account balance, where others could overhear it.
+
+## Question 8
+
+If you receive a valid subpoena or summons for the financial records of an account holder, you must:
+
+- A. Wait for the outcome of any challenge by the account holder
+- B. Put a hold on all accounts in question
+- C. Immediately begin gathering the financial information
+
+**Correct answer: C. Immediately begin gathering the financial information.**
+
+**Explanation:** Under the RFPA, institutions generally must assemble records requested by a qualifying government subpoena or summons, even while a customer challenge is pending. Gathering records does not authorize their immediate release; applicable certification and other legal requirements must be satisfied before disclosure.
+
+**Source:** [DOJ: Rights and Duties of Financial Institutions](https://www.justice.gov/archives/usam/criminal-resource-manual-419-rights-and-duties-financial-institutions).
+
+## Question 9
+
+An account holder has a right to begin action to quash or stop the IRS summons within a _____ after the summons is issued.
+
+- A. 20-day period
+- B. 30-day period
+- C. 40-day period
+
+**Best answer: A. 20-day period.**
+
+**Explanation:** A person entitled to notice of a qualifying third-party IRS summons generally must begin proceedings to quash it no later than the 20th day after notice is given.
+
+**Wording correction:** The deadline runs from when notice is given, not necessarily when the summons is issued. Not all IRS summonses carry this right to challenge.
+
+**Source:** [IRS: Summonses on Third-Party Witnesses](https://www.irs.gov/irm/part25/irm_25-005-006).
+
+## Question 10
+
+A typical code of ethics might require that employees:
+
+- A. Rely on their own discretion when giving out financial information
+- B. Never use confidential information for personal reasons
+- C. Never disclose to anyone that they are removing confidential documents from the institution
+
+**Correct answer: B. Never use confidential information for personal reasons.**
+
+**Explanation:** Employees should access and use confidential information only for authorized business purposes, following the institution's policies rather than personal discretion or interests.
+
+## Question 11
+
+The government can ask an institution to delay notifying a customer of its request for private financial information in certain situations, two of which are the possibility of the customer:
+
+- (A) Fleeing
+- (B) Declaring bankruptcy
+- (C) Intimidating potential witnesses
+
+**Correct answer: A & C — fleeing and intimidating potential witnesses.**
+
+**Note:** Combined answer choices were not supplied; the answer refers to the statements above.
+
+## Question 12
+
+You're required to disclose to a consumer the name, address, and phone number of a credit reporting agency, along with other information including any credit score used, when:
+
+- A. The consumer is preapproved for a loan
+- B. You've used its information as a basis for denying credit or increasing its costs
+- C. You provide the consumer with an application for credit
+
+**Correct answer: B. You've used its information as a basis for denying credit or increasing its costs.**
+
+**Explanation:** An adverse action based wholly or partly on a consumer report triggers FCRA notice requirements, including the reporting agency's contact information and disclosures about a credit score used in the decision. Offering credit on less favorable terms can instead trigger risk-based pricing notice requirements, depending on the circumstances.
+
+**Source:** [FTC: Using Consumer Reports for Credit Decisions — Adverse Action and Risk-Based Pricing Notices](https://www.ftc.gov/business-guidance/resources/using-consumer-reports-credit-decisions-what-know-about-adverse-action-risk-based-pricing-notices).
+
+## Question 13
+
+What are two circumstances when the methods for obtaining private financial information outlined in the Right to Financial Privacy Act don't have to be followed?
+
+- (A) Judicial subpoenas
+- (B) Violations of law suspected by institutions
+- (C) Supervisory agencies' requests
+
+**Correct answer: B & C — violations of law suspected by institutions and supervisory agencies' requests.**
+
+**Explanation:** The RFPA permits institutions to notify authorities of suspected illegal activity within statutory disclosure limits. It also exempts access by supervisory agencies acting within their supervisory, regulatory, or monetary functions. An ordinary judicial subpoena is a method governed by RFPA procedures, not a blanket exemption.
+
+**Note:** Combined answer choices were not supplied; the answer refers to the statements above.
+
+**Source:** [Federal Reserve: Background and Summary of the Right to Financial Privacy Act](https://www.federalreserve.gov/frrs/regulations/background-and-summary-of-the-right-to-financial-privacy-act.htm).
+
+## Question 14
+
+An institution is always prohibited from notifying the customer in the event of _____ inquiry.
+
+- A. A Federal Reserve
+- B. An IRS
+- C. A Secret Service
+
+**Best answer: C. A Secret Service.**
+
+**Wording correction:** "Always" is too broad. The relevant RFPA restriction concerns Secret Service requests for its protective functions, with the required certification that disclosure could cause specified harm, such as danger to a person's safety or interference with an investigation. It is not a blanket prohibition covering every Secret Service inquiry.
+
+**Source:** [12 U.S.C. Section 3414: Special Procedures](https://www.law.cornell.edu/uscode/text/12/3414).
+
+## Question 15
+
+Under the Privacy of Consumer Financial Information regulation, someone who _____ would be considered a customer.
+
+- A. Has a credit card account
+- B. Purchases a money order
+- C. Applies for a business loan
+
+**Correct answer: A. Has a credit card account.**
+
+**Explanation:** A personal credit card account establishes a continuing customer relationship under Regulation P. An isolated money order purchase does not establish that continuing relationship, and business-purpose loans fall outside the regulation's personal, family, or household scope.
+
+**Source:** [CFPB: Regulation P, Section 1016.3 — Definitions](https://www.consumerfinance.gov/rules-policy/regulations/1016/3/).
+
+## Question 16
+
+When the IRS issues a summons for an account holder's records, the institution _____ notify the customer.
+
+- A. Must not
+- B. Must
+- C. Must not have to or may be ordered not to
+
+**Best answer: C, interpreted as "does not have to or may be ordered not to."**
+
+**Explanation:** When notice of a third-party IRS summons is required, the IRS generally provides it. The institution does not have a blanket duty to notify the customer and must obey any applicable nondisclosure order. An exception to the IRS's notice requirement does not, by itself, prohibit the institution from notifying the customer.
+
+**Wording correction:** Option C as supplied is grammatically unclear; the intended wording appears to be "does not have to or may be ordered not to."
+
+**Source:** [IRS: Summonses on Third-Party Witnesses](https://www.irs.gov/irm/part25/irm_25-005-006).
+
+## Question 17
+
+An institution is not allowed to inform an account holder that information has been provided to the government when:
+
+- A. The account holder is a citizen of another country
+- B. Charges are being brought against the account holder
+- C. A judge approves the government's request for delay
+
+**Correct answer: C. A judge approves the government's request for delay.**
+
+**Explanation:** A court may authorize delayed customer notification under the RFPA. The institution must comply with the order's restrictions for the specified period; foreign citizenship or criminal charges alone do not establish such a prohibition.
+
+**Source:** [Federal Reserve: Background and Summary of the Right to Financial Privacy Act](https://www.federalreserve.gov/frrs/regulations/background-and-summary-of-the-right-to-financial-privacy-act.htm).
+
+## Question 18
+
+Under the account holder authorization method, the account holder signs and dates a statement that, among other things, specifies:
+
+- A. The purpose for which the information may be used
+- B. Who other than the federal government may have access to the information
+- C. The account holder relinquishes all their rights
+
+**Correct answer: A. The purpose for which the information may be used.**
+
+**Explanation:** RFPA customer authorization identifies the financial records, the government authorities authorized to receive them, and the purposes for which they may be disclosed. It does not require the customer to relinquish all rights.
+
+**Source:** [DOJ: Customer Authorization](https://www.justice.gov/archives/usam/criminal-resource-manual-406-customer-authorization).
+
+## Question 19
+
+The Privacy of Consumer Financial Information regulation describes when a consumer's nonpublic personal information may be:
+
+- A. Discarded
+- B. Disclosed to nonaffiliated third parties
+- C. Withheld from government agencies
+
+**Correct answer: B. Disclosed to nonaffiliated third parties.**
+
+**Explanation:** Regulation P governs privacy notices and the conditions for sharing nonpublic personal information with nonaffiliated third parties, including applicable opt-out rights and exceptions.
+
+**Source:** [FTC: How to Comply with the Privacy of Consumer Financial Information Rule](https://www.ftc.gov/business-guidance/resources/how-comply-privacy-consumer-financial-information-rule-gramm-leach-bliley-act).
+
+## Question 20
+
+Debt collection practices are governed by:
+
+- A. Each financial institution
+- B. The National Debt Collectors Association
+- C. Both state and federal law
+
+**Correct answer: C. Both state and federal law.**
+
+**Explanation:** Federal law, including the Fair Debt Collection Practices Act, regulates covered debt collectors. State laws may provide additional protections and may cover creditors or collection activities beyond the federal Act's scope.
+
+**Source:** [FTC: Debt Collection FAQs](https://consumer.ftc.gov/articles/debt-collection-faqs).
+
